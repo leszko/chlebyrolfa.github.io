@@ -1,0 +1,38 @@
+# Site
+name: "Chleby Rolfa"
+title: "Chleby Rolfa"
+description: "życie jest proste"
+logo: 'assets/images/icons/logo.png'
+favicon: 'assets/images/icons/logo.png'
+baseurl: 
+google_analytics: 'UA-164126054-1'
+include: ["_pages"]
+permalink: /:year/:month/:day/:title
+future: true
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Pagination 
+paginate: 10
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

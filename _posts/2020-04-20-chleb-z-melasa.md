@@ -39,7 +39,7 @@ when-to-start: rano poprzedniego dnia
 * Przykryć ściereczką i odstawić na noc do wyrastania
 * Piec 42 minuty w 230 stopniach
 
-## Przepis
+## Przepis szczegółowy
 
 1\. Rano wymieszać łyżką składniki na zaczyn i odstawić na 12 godzin.\\
 2\. Wieczorem uprażyć na patelni słonecznik.

@@ -69,6 +69,9 @@ post_class: post-template
                     </div>
                 {% endif %}
                 <!-- End Toc -->
+                {% if page.when-to-start %}
+                <p class="when-to-start"><img src="/assets/images/clock.svg"> <i>Zacznij <u>{{ page.when-to-start }}</u></i></p>
+                {% endif %}
                 {{content}}
             </div>
 

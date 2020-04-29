@@ -375,9 +375,20 @@ span.post-read-more a:hover {
 
 .article-post {
     font-family: Merriweather;
-    font-size: 1rem;
-    line-height: 1.84;
+    font-size: 0.9rem;
+    line-height: 1.8;
     color: rgba(0, 0, 0, .8);
+}
+
+.article-post .when-to-start {
+    vertical-align: middle;
+    line-height:2;
+}
+
+.article-post .when-to-start img {
+    height: 18px;
+    padding-right:5px;
+    padding-bottom:2px;
 }
 
 blockquote {
@@ -744,8 +755,8 @@ h6 {
 .article-post h4,
 .article-post h5,
 .article-post h6 {
-    font-weight: 700;
-    margin-bottom: 1.5rem;
+    font-weight: 680;
+    margin-bottom: 0.8rem;
 }
 
 .article-post img.shadow {

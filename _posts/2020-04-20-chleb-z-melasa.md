@@ -4,6 +4,7 @@ image:  assets/images/blog/2020-04-20-chleb-z-melasa/glowny.jpg
 title: Chleb z Melasą
 source-title: Whiteplate (Nowy chleb ulubiony)
 source-link: http://whiteplate.com/2018/08/nowy-chleb-ulubiony/
+when-to-start: rano poprzedniego dnia
 ---
 
 ## Składniki
@@ -27,10 +28,20 @@ source-link: http://whiteplate.com/2018/08/nowy-chleb-ulubiony/
 * oliwa do wysmarowania formy
 * mąka razowa (pszenna albo żytnia) do posypania chleba
 
+## W skrócie
+
+* Wymieszać składniki na zaczyn i odstawić na 12 godzin
+* Uprażyć słonecznik
+* Wymieszać wszystkie składniki
+* Odstawić na 20 minut
+* Wymieszać jeszcze raz
+* Przełożyć do formu wysmarowanej oliwą i posypać mąką
+* Przykryć ściereczką i odstawić na noc do wyrastania
+* Piec 42 minuty w 230 stopniach
+
 ## Przepis
 
-1\. Rano wymieszać łyżką składniki na zaczyn i odstawić na 12 godzin.
-
+1\. Rano wymieszać łyżką składniki na zaczyn i odstawić na 12 godzin.\\
 2\. Wieczorem uprażyć na patelni słonecznik.
 
 ![Słonecznik](/assets/images/blog/2020-04-20-chleb-z-melasa/slonecznik.jpg)
@@ -47,10 +58,8 @@ source-link: http://whiteplate.com/2018/08/nowy-chleb-ulubiony/
 
 ![Forma](/assets/images/blog/2020-04-20-chleb-z-melasa/forma.jpg)
 
-6\. Zostawić na noc do wyrastania w temperaturze pokojowej.
-
-7\. Rano rozgrzać piekarnik do 230 stopni.
-
+6\. Zostawić na noc do wyrastania w temperaturze pokojowej.\\
+7\. Rano rozgrzać piekarnik do 230 stopni.\\
 8\. Włożyć formę z chlebem do piekarnika i piec 42 minuty.
 
 ![Gotowy chleb](/assets/images/blog/2020-04-20-chleb-z-melasa/zakonczenie.jpg)

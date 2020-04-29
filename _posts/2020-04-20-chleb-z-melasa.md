@@ -4,6 +4,7 @@ image:  assets/images/blog/2020-04-20-chleb-z-melasa/glowny.jpg
 title: Chleb z Melasą
 source-title: Whiteplate (Nowy chleb ulubiony)
 source-link: http://whiteplate.com/2018/08/nowy-chleb-ulubiony/
+when-to-start: Rano poprzedniego dnia
 ---
 
 ## Składniki

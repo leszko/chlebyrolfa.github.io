@@ -380,6 +380,17 @@ span.post-read-more a:hover {
     color: rgba(0, 0, 0, .8);
 }
 
+.article-post .when-to-start {
+    vertical-align: middle;
+    line-height:2;
+}
+
+.article-post .when-to-start img {
+    height: 18px;
+    padding-right:5px;
+    padding-bottom:2px;
+}
+
 blockquote {
     border-left: 4px solid #00ab6b;
     padding: 0 20px;

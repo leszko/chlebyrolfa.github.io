@@ -113,10 +113,10 @@ post_class: post-template
             </p>
             
             <!-- Original source -->
-            {%if page.source-title %}
+            {% if page.source-title %}
             <p>
                 <small>
-                    <span class="post-date">Przepis zaczerpnięty z <a href="{{ page.source-link }}">{{ page.source-title }}</a> z moimi zmianami</span>           
+                    <span class="post-date">Przepis zaczerpnięty z {% if page.source-link %}<a href="{{ page.source-link }}">{% endif %}{{ page.source-title }}{% if page.source-link %}</a>{% endif %} z moimi zmianami</span>           
                 </small>
             </p>
             {% endif %}

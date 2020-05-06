@@ -6,6 +6,7 @@ logo: 'assets/images/icons/logo.png'
 favicon: 'assets/images/icons/logo.png'
 baseurl:
 google_analytics: 'UA-164126054-1'
+disqus: 'chlebyrolfa'
 include: ["_pages"]
 permalink: /:year/:month/:day/:title
 future: true

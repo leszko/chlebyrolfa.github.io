@@ -253,3 +253,6 @@ DEPENDENCIES
   jekyll-sitemap
   kramdown
   rouge
+
+BUNDLED WITH
+   2.1.4

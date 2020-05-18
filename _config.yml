@@ -10,6 +10,8 @@ disqus: 'chlebyrolfa'
 include: ["_pages"]
 permalink: /:title/
 future: true
+lang: pl_PL
+locale: pl_PL
 
 # Plugins
 plugins:

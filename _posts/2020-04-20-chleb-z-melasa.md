@@ -1,7 +1,8 @@
 ---
 layout: post
-image:  assets/images/blog/2020-04-20-chleb-z-melasa/glowny.jpg
+image:  assets/images/blog/2020-04-20-chleb-z-melasa/chleb-z-melasa.jpg
 title: Chleb z melasą
+description: Przepis na domowy chleb z melasą na zakwasie żytnim. Jeden z najlepszych chlebów domowych. Bardzo łatwy do przygotowania.
 source-title: Whiteplate (Nowy chleb ulubiony)
 source-link: http://whiteplate.com/2018/08/nowy-chleb-ulubiony/
 when-to-start: rano poprzedniego dnia
@@ -44,22 +45,22 @@ when-to-start: rano poprzedniego dnia
 1\. Rano wymieszaj łyżką składniki na zaczyn i odstaw na 12 godzin.\\
 2\. Wieczorem upraż na patelni słonecznik.
 
-![Słonecznik](/assets/images/blog/2020-04-20-chleb-z-melasa/slonecznik.jpg)
+![Chleb z melasą - Słonecznik](/assets/images/blog/2020-04-20-chleb-z-melasa/chleb-z-melasa-slonecznik.jpg)
 
 3\. Dodaj do zaczynu uprażony słonecznik i resztę składników na chleb.
 
-![Mieszanie](/assets/images/blog/2020-04-20-chleb-z-melasa/dodanie-melasy.jpg)
+![Chleb z melasą - Mieszanie](/assets/images/blog/2020-04-20-chleb-z-melasa/chleb-z-melasa-dodanie-melasy.jpg)
 
 4\. Wyrabiaj ciasto hakiem przez 2-4 minuty.
 
-![Mieszanie](/assets/images/blog/2020-04-20-chleb-z-melasa/mieszanie.jpg)
+![Chleb z melasą - Mieszanie](/assets/images/blog/2020-04-20-chleb-z-melasa/chleb-z-melasa-mieszanie.jpg)
 
 5\. Wysmaruj formę oliwą, przełóż ciasto, posyp mąką razową i przykryj ściereczką.
 
-![Forma](/assets/images/blog/2020-04-20-chleb-z-melasa/forma.jpg)
+![Chleb z melasą - Forma](/assets/images/blog/2020-04-20-chleb-z-melasa/chleb-z-melasa-forma.jpg)
 
 6\. Zostaw na noc do wyrastania w temperaturze pokojowej.\\
 7\. Rano rozgrzej piekarnik do 230 stopni.\\
 8\. Włóż formę z chlebem do piekarnika i piecz 42 minuty.
 
-![Gotowy chleb](/assets/images/blog/2020-04-20-chleb-z-melasa/zakonczenie.jpg)
+![Chleb z melasą - Gotowy chleb](/assets/images/blog/2020-04-20-chleb-z-melasa/chleb-z-melasa-zakonczenie.jpg)

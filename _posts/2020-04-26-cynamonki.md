@@ -10,7 +10,7 @@ when-to-start: wieczorem przed porannym wypiekiem
 
 ##### Ciasto
 
-* 10 g drożdży
+* 10 g świeżych drożdży
 * 250 g mąki pszennej luksusowej (typ 550)
 * 100 g mleka
 * 75 g masła

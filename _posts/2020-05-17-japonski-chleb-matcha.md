@@ -20,7 +20,7 @@ when-to-start: wieczorem, dwa dni przed wypiekiem
 * 300 g mąki chlebowej (typ 750)
 * 90 g mleka
 * 60 g masła
-* 10 g drożdży
+* 10 g świeżych drożdży
 * 3 łyżki cukru
 * 1 łyżeczka soli
 * 1 jajko

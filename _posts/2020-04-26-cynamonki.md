@@ -39,7 +39,7 @@ when-to-start: wieczorem przed porannym wypiekiem
 * Przykryj i odstaw na 1 godzinę
 * Rozwałkuj ciasto na prostokąt
 * Rozpuść masło na nadzienie w garnuszku i posmaruj nim ciasto
-* Posyp mieszanką cukru, cynamonu i kardamonu (użyj 3/4 mieszanki)
+* Posyp mieszanką cukru, cynamonu i kardamonu (użyj 90% mieszanki)
 * Zwiń wzdłuż dłuższego boku
 * Krój na 2-3 centymetrowe plastry i ułóż na blasze wyłożonej papierem do pieczenia
 * Przykryj i odstaw na 40-60 minut
@@ -79,7 +79,7 @@ when-to-start: wieczorem przed porannym wypiekiem
 ![Posypka](/assets/images/blog/2020-04-26-cynamonki/posypka.jpg)
 
 11\. Posmaruj ciasto masłem.\\
-12\. Posyp równomiernie mieszanką cynamonowo-kardamonową (użyj 3/4, a 1/4 pozostaw na rano).\\
+12\. Posyp równomiernie mieszanką cynamonowo-kardamonową (użyj 90%, a 10% pozostaw na rano).\\
 13\. Zwiń ciasto w rulon wzdłuż dłuższego boku.\\
 14\. Przygotuj blachę z papierem do pieczenia.\\
 15\. Krój 2-3 centymetrowe plasty i układaj na blasze.

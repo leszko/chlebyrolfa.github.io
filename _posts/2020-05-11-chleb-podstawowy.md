@@ -6,6 +6,12 @@ description: "Przepis na prosty chleb na zakwasie. Miąższ idealny, pachnący, 
 when-to-start: późnym popołudniem poprzedniego dnia
 ---
 
+-----
+
+Pierwszy chleb jaki upiekłem w życiu. Polecił mi go mój znajomy, który też podzielił się ze mną zakwasem. Jest przepyszny i bardzo tolerancyjny na wszystkie niedokładności i zmiany. Zawsze wychodzi świetny i nie wymaga wiele czasu na przygotowanie, dlatego polecam go szczególnie tym, którzy rozpoczynają swoją przygodę z wypiekaniem chleba. Można dowolnie mieszać mąki - mogą być razowe, mągą być z dodatkiem mąki orkiszowej albo gryczanej. Do tego polecam też dodać ziarna słonecznika lub pestki dyni.
+
+-----
+
 ## Składniki
 
 ##### Chleb
@@ -24,46 +30,39 @@ when-to-start: późnym popołudniem poprzedniego dnia
 * oliwa do posmarowania formy
 * mąka razowa do posypania chleba
 
+-----
+
 ## W skrócie
 
-* Wymieszaj w misce wszystkie suche składniki
-* Dodaj zakwas i wodę
-* Wymieszaj wszystko łyżką
-* Przenieś masę do formy wysmarowanej oliwą
-* Posyp chleb mąką razową
-* Przykryj ściereczką i zostaw na noc
-* Rano włóż chleb do piekarnika nagrzanego do 230 stopni
-* Piecz 42 minuty
+1. Wymieszaj w misce wszystkie **suche składniki**
+2. Dodaj **zakwas i wodę**, wymieszaj wszystko łyżką
+3. Przenieś masę do ***formy wysmarowanej oliwą**
+4. Posyp chleb **mąką razową**, przykryj ściereczką i odłóż na noc
+5. Rano włóż chleb do piekarnika nagrzanego do **230 stopni** i piecz **42 minuty**
+
+-----
 
 ## Przepis szczegółowy
 
-1\. Przygotuj wszystkie składniki.
+1\. Przygotuj wszystkie składniki. W pierwszej kolejności wymieszaj łyżką wszystkie **suche elementy: mąkę, sól i ziarna**.
 
 ![Chleb podstawowy - Składniki](/assets/images/blog/2020-05-11-chleb-podstawowy/chleb-podstawowy-skladniki.jpg)
 
-2\. Wymieszaj w misce wszystkie suche składniki (mąki, sól, ziarna).\\
-3\. Dodaj zakwas i wodę.\\
-4\. Wymieszaj masę (konsystencja powinna być gęsta, ale dająca się mieszać łyżką).
+2\. Dodaj **zakwas i wodę**, wymieszaj wszystko łyżka. Konsystencja powinna być gęsta, ale dająca się bez problemu mieszać.
 
 ![Chleb podstawowy - Mieszanie](/assets/images/blog/2020-05-11-chleb-podstawowy/chleb-podstawowy-mieszanie.jpg)
 
-5\. Wysmaruj formę oliwą.\\
-6\. Przełóż masę do formy.\\
-7\. Posyp chleb mąką razową.\\
-8\. Przykryj ściereczką i zostaw na noc w temperaturze pokojowej.
+3\. Wysmaruj **formę oliwą** i przełóż masę do formy. Chleb urośnie dlatego sprawdź czy masa nie sięga wyżej niż 60% wysokości formy.
+
+4\. Posyp chleb **mąką razową**. Następnie przykryj ściereczką i zostaw na noc w temperaturze pokojowej.
 
 ![Chleb podstawowy - Forma](/assets/images/blog/2020-05-11-chleb-podstawowy/chleb-podstawowy-forma.jpg)
 
-9\. Rano chleb powinien być wyrośnięty.
+5\. Rano chleb powinien być wyrośnięty. Nagrzej piekarnik do **230 stopni** i włóż do niego chleb. Piecz **42 minuty**. Chleb nie powinien już rosnąć w piekarniku, ale za to ładnie się zarumienić.
 
 ![Chleb podstawowy - Wyrośnięty](/assets/images/blog/2020-05-11-chleb-podstawowy/chleb-podstawowy-wyrosniety.jpg)
 
-10\. Nagrzej piekarnik do 230 stopni.\\
-11\. Włóż chleb do piekarnika.
-
 ![Chleb podstawowy - Pieczenie](/assets/images/blog/2020-05-11-chleb-podstawowy/chleb-podstawowy-pieczenie.jpg)
-
-12\. Piecz 42 minuty.
 
 ![Chleb podstawowy - Chleb podstawowy](/assets/images/blog/2020-05-11-chleb-podstawowy/chleb-podstawowy-koniec.jpg)
 

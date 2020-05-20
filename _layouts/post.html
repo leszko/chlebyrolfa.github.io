@@ -78,7 +78,24 @@ locale: pl_PL
                 {% endif %}
                 <!-- End Toc -->
                 {% if page.when-to-start %}
-                <p class="when-to-start"><img src="/assets/images/clock.svg"> <i>Zacznij <u>{{ page.when-to-start }}</u></i></p>
+                <div class="container">
+                    <div class="row">
+                      <div class="col-md pt-1">
+                        <span class="intro-icon"><img src="/assets/images/baking-pan.png"><i>Forma <u>28-30 cm</u></i></span>
+                      </div>
+                      <div class="col-md pt-1">
+                        <span class="intro-icon"><img src="/assets/images/sourdough.png"><i>Chleb na <u>zakwasie</u></i></span>
+                      </div>
+                      <div class="col-md pt-1">
+                        <span class="intro-icon"><img src="/assets/images/difficulty-2.png"><i>Trudność: <u>prosty</u></i></span>
+                      </div>
+                    </div>
+                    <div class="row">
+                        <div class="col pt-3">
+                            <span class="when-to-start"><img src="/assets/images/clock.png"> <i>Zacznij <u>{{ page.when-to-start }}</u></i></span>
+                        </div>
+                    </div>
+                </div>
                 {% endif %}
                 {{content}}
             </div>

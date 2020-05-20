@@ -22,11 +22,27 @@
                 {{ post.title }}
                 </a>
             </h2>
-            <h4 class="card-subtitle"><span>{{ post.date | date: "%d.%m.%Y" }}
-                {% if post.place %}
-                <br/>{{ post.place }}
-                {% endif %}
-            </span></h4>
+            <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:20 }}</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-2 pl-1">
+                            <span class="post-icon"><img src="/assets/images/difficulty-2.png"></span>
+                        </div>
+                        <div class="col-2 pl-0">
+                            <span class="post-icon"><img src="/assets/images/sourdough.png"></span>
+                        </div>
+                        <div class="col-2 pl-0">
+                            <span class="post-icon"><img src="/assets/images/baking-pan.png"></span>
+                        </div>
+                         <div class="col-6 pr-1">
+                            <span class="post-date">{{ post.date | date: "%d.%m.%Y" }}</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>

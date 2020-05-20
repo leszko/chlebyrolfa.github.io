@@ -3,12 +3,15 @@ layout: post
 image:  assets/images/blog/2020-05-11-chleb-podstawowy/chleb-podstawowy.jpg
 title: Chleb podstawowy
 description: "Przepis na prosty chleb na zakwasie. Miąższ idealny, pachnący, skórka wypieczona i chrupiąca. Polecam wszystkim, którzy zaczynają swoją przygodę z wypiekaniem chleba. Najlepszy z najlepszych składników: mąka żytnia, woda, sól i wyhodowany samodzielnie zakwas"
+tags: na-poczatek zakwas trudnosc-bardzo-prosty
+categories: chleby
+baking-pan: "22-24 cm"
 when-to-start: późnym popołudniem poprzedniego dnia
 ---
 
 -----
 
-Pierwszy chleb jaki upiekłem w życiu. Polecił mi go mój znajomy, który też podzielił się ze mną zakwasem. Jest przepyszny i bardzo tolerancyjny na wszystkie niedokładności i zmiany. Zawsze wychodzi świetny i nie wymaga wiele czasu na przygotowanie, dlatego polecam go szczególnie tym, którzy rozpoczynają swoją przygodę z wypiekaniem chleba. Można dowolnie mieszać mąki - mogą być razowe, mągą być z dodatkiem mąki orkiszowej albo gryczanej. Do tego polecam też dodać ziarna słonecznika lub pestki dyni.
+Pierwszy chleb jaki upiekłem w życiu. Polecił mi go mój kolega, który też podzielił się ze mną zakwasem. Chleb jest przepyszny i bardzo tolerancyjny na wszystkie niedokładności i zmiany. Zawsze wychodzi świetny i nie wymaga wiele czasu na przygotowanie, dlatego polecam go szczególnie tym, którzy rozpoczynają swoją przygodę z wypiekaniem chleba. Można dowolnie mieszać mąki - mogą być razowe, mogą być z dodatkiem mąki orkiszowej albo gryczanej. Do tego polecam też dodać ziarna słonecznika lub pestki dyni.
 
 -----
 
@@ -36,7 +39,7 @@ Pierwszy chleb jaki upiekłem w życiu. Polecił mi go mój znajomy, który też
 
 1. Wymieszaj w misce wszystkie **suche składniki**
 2. Dodaj **zakwas i wodę**, wymieszaj wszystko łyżką
-3. Przenieś masę do ***formy wysmarowanej oliwą**
+3. Przenieś masę do **formy wysmarowanej oliwą**
 4. Posyp chleb **mąką razową**, przykryj ściereczką i odłóż na noc
 5. Rano włóż chleb do piekarnika nagrzanego do **230 stopni** i piecz **42 minuty**
 

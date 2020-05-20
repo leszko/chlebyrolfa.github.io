@@ -81,13 +81,25 @@ locale: pl_PL
                 <div class="container">
                     <div class="row">
                       <div class="col-md pt-1">
-                        <span class="intro-icon"><img src="/assets/images/baking-pan.png"><i>Forma <u>28-30 cm</u></i></span>
+                        {% if page.tags contains "trudnosc-bardzo-prosty" %}
+                            <span class="intro-icon"><img src="/assets/images/difficulty-1.png"><i>Trudność: <u>bardzo prosty</u></i></span>
+                        {% elsif page.tags contains "trudnosc-prosty" %}
+                            <span class="intro-icon"><img src="/assets/images/difficulty-2.png"><i>Trudność: <u>prosty</u></i></span>
+                        {% elsif page.tags contains "trudnosc-sredni" %}
+                            <span class="intro-icon"><img src="/assets/images/difficulty-3.png"><i>Trudność: <u>średni</u></i></span>
+                        {% elsif page.tags contains "trudnosc-trudny" %}
+                            <span class="intro-icon"><img src="/assets/images/difficulty-4.png"><i>Trudność: <u>trudny</u></i></span>
+                        {% endif %}
                       </div>
                       <div class="col-md pt-1">
-                        <span class="intro-icon"><img src="/assets/images/sourdough.png"><i>Chleb na <u>zakwasie</u></i></span>
+                        {% if page.tags contains "zakwas" %}
+                            <span class="intro-icon"><img src="/assets/images/sourdough.png"><i>Chleb na <u>zakwasie</u></i></span>
+                        {% endif %}
                       </div>
                       <div class="col-md pt-1">
-                        <span class="intro-icon"><img src="/assets/images/difficulty-2.png"><i>Trudność: <u>prosty</u></i></span>
+                        {% if page.baking-pan %}
+                            <span class="intro-icon"><img src="/assets/images/baking-pan.png"><i>Forma <u>{{page.baking-pan}}</u></i></span>
+                        {% endif %}
                       </div>
                     </div>
                     <div class="row">

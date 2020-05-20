@@ -29,15 +29,27 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-2 pl-1">
-                            <span class="post-icon"><img src="/assets/images/difficulty-2.png"></span>
+                        {% if post.tags contains "trudnosc-bardzo-prosty" %}
+                            <span class="post-icon"><img src="/assets/images/difficulty-1.png" title="Trudność: bardzo prosty"></span>
+                        {% elsif post.tags contains "trudnosc-prosty" %}
+                            <span class="post-icon"><img src="/assets/images/difficulty-2.png" title="Trudność: prosty"></span>
+                        {% elsif post.tags contains "trudnosc-sredni" %}
+                            <span class="post-icon"><img src="/assets/images/difficulty-3.png" title="Trudność: średni"></span>
+                        {% elsif post.tags contains "trudnosc-trudny" %}
+                            <span class="post-icon"><img src="/assets/images/difficulty-4.png" title="Trudność: trudny"></span>
+                        {% endif %}
                         </div>
                         <div class="col-2 pl-0">
-                            <span class="post-icon"><img src="/assets/images/sourdough.png"></span>
+                        {% if post.tags contains "zakwas" %}
+                            <span class="post-icon"><img src="/assets/images/sourdough.png" title="Chleb na zakwasie"></span>
+                        {% endif %}
                         </div>
                         <div class="col-2 pl-0">
-                            <span class="post-icon"><img src="/assets/images/baking-pan.png"></span>
+                        {% if post.baking-pan %}
+                            <span class="post-icon"><img src="/assets/images/baking-pan.png" title="Chleb pieczony w formie"></span>
+                        {% endif %}
                         </div>
-                         <div class="col-6 pr-2">
+                         <div class="col-6 pr-0">
                             <span class="post-date">{{ post.date | date: "%d.%m.%Y" }}</span>
                         </div>
                     </div>

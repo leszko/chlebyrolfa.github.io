@@ -14,7 +14,7 @@ Pierwszy chleb jaki upiekłem w życiu. Polecił mi go mój znajomy, który też
 
 ## Składniki
 
-##### Chleb
+#### Chleb
 
 * 3 szklanki (360 g) dowolnej mąki, na przykład:
   * 1 szklanka mąki żytniej chlebowej
@@ -25,7 +25,7 @@ Pierwszy chleb jaki upiekłem w życiu. Polecił mi go mój znajomy, który też
 * 1 płaska łyżka (10 g) soli 
 * (opcjonalnie) 1/2 szklanki ziaren (słonecznik, pestki dyni albo siemię lniane zalane wrzątkiem)
 
-##### Dodatkowo
+#### Dodatkowo
 
 * oliwa do posmarowania formy
 * mąka razowa do posypania chleba

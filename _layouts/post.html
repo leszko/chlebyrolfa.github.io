@@ -93,12 +93,20 @@ locale: pl_PL
                       </div>
                       <div class="col-md pt-1">
                         {% if page.tags contains "zakwas" %}
-                            <span class="intro-icon"><img src="/assets/images/sourdough.png"><i>Chleb na <u>zakwasie</u></i></span>
+                            <span class="intro-icon"><img src="/assets/images/sourdough.png"><i>Wypiek na <u>zakwasie</u></i></span>
+                        {% elsif page.tags contains "drozdze" %}
+                            <span class="intro-icon"><img src="/assets/images/yeast.png"><i>Wypiek na <u>drożdżach</u></i></span>
                         {% endif %}
                       </div>
                       <div class="col-md pt-1">
                         {% if page.baking-pan %}
                             <span class="intro-icon"><img src="/assets/images/baking-pan.png"><i>Forma <u>{{page.baking-pan}}</u></i></span>
+                        {% elsif page.tags contains "kamien" and page.tags contains "blacha" %}
+                            <span class="intro-icon"><img src="/assets/images/baking-tray.png"><i>Użyj <u>kamienia lub blachy</u></i></span>
+                        {% elsif page.tags contains "kamien" %}
+                            <span class="intro-icon"><img src="/assets/images/baking-tray.png"><i>Użyj <u>kamienia</u></i></span>
+                        {% elsif page.tags contains "blacha" %}
+                            <span class="intro-icon"><img src="/assets/images/baking-tray.png"><i>Użyj <u>blachy</u></i></span>
                         {% endif %}
                       </div>
                     </div>
@@ -157,31 +165,6 @@ locale: pl_PL
                 </small>
             </p>
             {% endif %}
-
-            <!-- Post Categories -->
-            <div class="after-post-cats">
-                <ul class="tags mb-4">
-                    {% assign sortedCategories = page.categories | sort %}
-                    {% for category in sortedCategories %}
-                    <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
-            <!-- End Categories -->
-
-            <!-- Post Tags -->
-            <div class="after-post-tags">
-                <ul class="tags">
-                    {% assign sortedTags = page.tags | sort %}
-                    {% for tag in sortedTags %}
-                    <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
             <!-- End Tags -->
 
         </div>

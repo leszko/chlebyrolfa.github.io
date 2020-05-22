@@ -95,8 +95,8 @@ locale: pl_PL
                             <span class="intro-icon"><img src="/assets/images/baking-tray.png" alt="Uzyj uzyj-kamieniaia"><i>Użyj <u>uzyj-kamieniaia</u></i></span>
                         {% elsif page.tags contains "uzyj-blachy" %}
                             <span class="intro-icon"><img src="/assets/images/baking-tray.png" alt="Uzyj blachy"><i>Użyj <u>blachy</u></i></span>
-                        {% elsif page.tags contains "uzyj-garnka-zeliwnego" %}
-                            <span class="intro-icon"><img src="/assets/images/dutch-oven.png" alt="Uzyj blachy"><i>Użyj <u>garnka żeliwnego</u></i></span>
+                        {% elsif page.dutch-oven %}
+                            <span class="intro-icon"><img src="/assets/images/dutch-oven.png" alt="Uzyj blachy"><i>Garnek żeliwny <u>{{ page.dutch-oven }}</u></i></span>
                         {% endif %}
                       </div>
                     </div>

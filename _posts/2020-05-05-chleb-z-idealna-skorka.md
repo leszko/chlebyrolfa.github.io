@@ -4,6 +4,7 @@ image:  assets/images/blog/2020-05-05-chleb-z-idealna-skorka/chleb-z-idealna-sko
 title: Chleb z idealną skórką
 description: Chleb z idealną skórką, pieczony w garnku. Przepis na chleb z grubą i chrupiącą skórką. Cudowny nocny chleb z garnka z idealnie chrupiącą skórką i mięciutkim środkiem. Wspaniały przepis na domowy chleb pieczony w garnku żeliwnym. Wymaga odrobiny zaangażowania, serca i czasu.
 tags: wypiek-na-zakwasie sredniotrudny-przepis uzyj-garnka-zeliwnego
+dutch-oven: "24 cm"
 categories: chleby
 source-title: VitaLivesFree (Foolproof Sourdough Bread Recipe)
 source-link: https://youtu.be/rxPTdIrsxOw

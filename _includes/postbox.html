@@ -29,36 +29,36 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-2 pl-1">
-                        {% if post.tags contains "trudnosc-bardzo-prosty" %}
+                        {% if post.tags contains "bardzo-prosty-przepis" %}
                             <span class="post-icon"><img src="/assets/images/difficulty-1.png" title="Trudność: bardzo prosty"></span>
-                        {% elsif post.tags contains "trudnosc-prosty" %}
+                        {% elsif post.tags contains "prosty-przepis" %}
                             <span class="post-icon"><img src="/assets/images/difficulty-2.png" title="Trudność: prosty"></span>
-                        {% elsif post.tags contains "trudnosc-sredni" %}
+                        {% elsif post.tags contains "sredniotrudny-przepis" %}
                             <span class="post-icon"><img src="/assets/images/difficulty-3.png" title="Trudność: średni"></span>
-                        {% elsif post.tags contains "trudnosc-trudny" %}
+                        {% elsif post.tags contains "trudny-przepis" %}
                             <span class="post-icon"><img src="/assets/images/difficulty-4.png" title="Trudność: trudny"></span>
                         {% endif %}
                         </div>
                         <div class="col-2 pl-0">
-                        {% if post.tags contains "zakwas" %}
+                        {% if post.tags contains "wypiek-na-zakwasie" %}
                             <span class="post-icon"><img src="/assets/images/sourdough.png" title="Wypiek na zakwasie"></span>
-                        {% elsif post.tags contains "drozdze" %}
+                        {% elsif post.tags contains "wypiek-na-drozdzach" %}
                             <span class="post-icon"><img src="/assets/images/yeast.png" title="Wypiek na drożdżach"></span>
                         {% endif %}
                         </div>
                         <div class="col-2 pl-0">
                         {% if post.baking-pan %}
                             <span class="post-icon"><img src="/assets/images/baking-pan.png" title="Użyj formy"></span>
-                        {% elsif post.tags contains "kamien" and post.tags contains "blacha" %}
-                            <span class="post-icon"><img src="/assets/images/baking-tray.png" title="Użyj kamienia lub blachy"></span>
-                        {% elsif post.tags contains "kamien" %}
-                           <span class="post-icon"><img src="/assets/images/baking-tray.png" title="Użyj kamienia"></span>
-                        {% elsif post.tags contains "blacha" %}
+                        {% elsif post.tags contains "uzyj-kamienia" and post.tags contains "uzyj-blachy" %}
+                            <span class="post-icon"><img src="/assets/images/baking-tray.png" title="Użyj uzyj-kamieniaia lub blachy"></span>
+                        {% elsif post.tags contains "uzyj-kamienia" %}
+                           <span class="post-icon"><img src="/assets/images/baking-tray.png" title="Użyj uzyj-kamieniaia"></span>
+                        {% elsif post.tags contains "uzyj-blachy" %}
                             <span class="post-icon"><img src="/assets/images/baking-tray.png" title="Użyj blachy"></span>
                         {% endif %}
                         </div>
                          <div class="col-6 pr-0">
-                            <span class="post-date">{{ post.date | date: "%d.%m.%Y" }}</span>
+                            <span class="post-date postbox-date">{{ post.date | date: "%d.%m.%Y" }}</span>
                         </div>
                     </div>
                 </div>

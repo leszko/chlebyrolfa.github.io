@@ -280,7 +280,7 @@ span.post-read {
     color: rgba(0, 0, 0, .44);
 }
 
-span.post-date {
+span.postbox-date {
     text-align: right;
     float:right;
 }

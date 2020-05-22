@@ -66,57 +66,46 @@ locale: pl_PL
 
             <!-- Post Content -->
             <div class="article-post">
-                <!-- Toc if any -->
-                {% if page.toc %}
-                    {% if page.beforetoc %}
-                        <p><em>{{page.beforetoc}}</em></p>
-                    {% endif %}
-                    <div class="toc mt-4 mb-4 lead">
-                        <h3 class="font-weight-bold">Summary</h3>
-                        {% include toc.html html=content %}
-                    </div>
-                {% endif %}
-                <!-- End Toc -->
-                {% if page.when-to-start %}
                 <div class="container">
                     <div class="row">
                       <div class="col-md pt-1">
-                        {% if page.tags contains "trudnosc-bardzo-prosty" %}
-                            <span class="intro-icon"><img src="/assets/images/difficulty-1.png"><i>Trudność: <u>bardzo prosty</u></i></span>
-                        {% elsif page.tags contains "trudnosc-prosty" %}
-                            <span class="intro-icon"><img src="/assets/images/difficulty-2.png"><i>Trudność: <u>prosty</u></i></span>
-                        {% elsif page.tags contains "trudnosc-sredni" %}
-                            <span class="intro-icon"><img src="/assets/images/difficulty-3.png"><i>Trudność: <u>średni</u></i></span>
-                        {% elsif page.tags contains "trudnosc-trudny" %}
-                            <span class="intro-icon"><img src="/assets/images/difficulty-4.png"><i>Trudność: <u>trudny</u></i></span>
+                        {% if page.tags contains "bardzo-prosty-przepis" %}
+                            <span class="intro-icon"><img src="/assets/images/difficulty-1.png" alt="Bardzo prosty przepis"><i>Trudność: <u>bardzo prosty</u></i></span>
+                        {% elsif page.tags contains "prosty-przepis" %}
+                            <span class="intro-icon"><img src="/assets/images/difficulty-2.png" alt="Prosty przepis"><i>Trudność: <u>prosty</u></i></span>
+                        {% elsif page.tags contains "sredniotrudny-przepis" %}
+                            <span class="intro-icon"><img src="/assets/images/difficulty-3.png" alt="Średniotrudny przepis"><i>Trudność: <u>średni</u></i></span>
+                        {% elsif page.tags contains "trudny-przepis" %}
+                            <span class="intro-icon"><img src="/assets/images/difficulty-4.png" alt="Trudny przepis"><i>Trudność: <u>trudny</u></i></span>
                         {% endif %}
                       </div>
                       <div class="col-md pt-1">
-                        {% if page.tags contains "zakwas" %}
-                            <span class="intro-icon"><img src="/assets/images/sourdough.png"><i>Wypiek na <u>zakwasie</u></i></span>
-                        {% elsif page.tags contains "drozdze" %}
-                            <span class="intro-icon"><img src="/assets/images/yeast.png"><i>Wypiek na <u>drożdżach</u></i></span>
+                        {% if page.tags contains "wypiek-na-zakwasie" %}
+                            <span class="intro-icon"><img src="/assets/images/sourdough.png" alt="Wypiek na zakwasie"><i>Wypiek na <u>zakwasie</u></i></span>
+                        {% elsif page.tags contains "wypiek-na-drozdzach" %}
+                            <span class="intro-icon"><img src="/assets/images/yeast.png" alt="Wypiek na drożdżach"><i>Wypiek na <u>drożdżach</u></i></span>
                         {% endif %}
                       </div>
                       <div class="col-md pt-1">
                         {% if page.baking-pan %}
-                            <span class="intro-icon"><img src="/assets/images/baking-pan.png"><i>Forma <u>{{page.baking-pan}}</u></i></span>
-                        {% elsif page.tags contains "kamien" and page.tags contains "blacha" %}
-                            <span class="intro-icon"><img src="/assets/images/baking-tray.png"><i>Użyj <u>kamienia lub blachy</u></i></span>
-                        {% elsif page.tags contains "kamien" %}
-                            <span class="intro-icon"><img src="/assets/images/baking-tray.png"><i>Użyj <u>kamienia</u></i></span>
-                        {% elsif page.tags contains "blacha" %}
-                            <span class="intro-icon"><img src="/assets/images/baking-tray.png"><i>Użyj <u>blachy</u></i></span>
+                            <span class="intro-icon"><img src="/assets/images/baking-pan.png" alt="Uzyj formy"><i>Forma <u>{{page.baking-pan}}</u></i></span>
+                        {% elsif page.tags contains "uzyj-kamienia" and page.tags contains "uzyj-blachy" %}
+                            <span class="intro-icon"><img src="/assets/images/baking-tray.png" alt="Uzyj uzyj-kamieniaia lub blachy"><i>Użyj <u>uzyj-kamieniaia lub blachy</u></i></span>
+                        {% elsif page.tags contains "uzyj-kamienia" %}
+                            <span class="intro-icon"><img src="/assets/images/baking-tray.png" alt="Uzyj uzyj-kamieniaia"><i>Użyj <u>uzyj-kamieniaia</u></i></span>
+                        {% elsif page.tags contains "uzyj-blachy" %}
+                            <span class="intro-icon"><img src="/assets/images/baking-tray.png" alt="Uzyj blachy"><i>Użyj <u>blachy</u></i></span>
                         {% endif %}
                       </div>
                     </div>
+                    {% if page.when-to-start %}
                     <div class="row">
                         <div class="col pt-3">
-                            <span class="when-to-start"><img src="/assets/images/clock.png"> <i>Zacznij <u>{{ page.when-to-start }}</u></i></span>
+                            <span class="when-to-start"><img src="/assets/images/clock.png" alt="Zacznij {{page.when-to-start}}"> <i>Zacznij <u>{{ page.when-to-start }}</u></i></span>
                         </div>
                     </div>
+                    {% endif %}
                 </div>
-                {% endif %}
                 {{content}}
             </div>
 
@@ -156,7 +145,7 @@ locale: pl_PL
                 {% endif %}
                 </small>
             </p>
-            
+          
             <!-- Original source -->
             {% if page.source-title %}
             <p>
@@ -165,6 +154,31 @@ locale: pl_PL
                 </small>
             </p>
             {% endif %}
+
+            <!-- Post Categories -->
+            <div class="after-post-cats">
+                <ul class="tags mb-4">
+                    {% assign sortedCategories = page.categories | sort %}
+                    {% for category in sortedCategories %}
+                    <li>
+                        <a class="smoothscroll" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}" style="pointer-events: none; cursor: default;">{{ category }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <!-- End Categories -->
+
+            <!-- Post Tags -->
+            <div class="after-post-tags">
+                <ul class="tags">
+                    {% assign sortedTags = page.tags | sort %}
+                    {% for tag in sortedTags %}
+                    <li>
+                        <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}" style="pointer-events: none; cursor: default;">#{{ tag }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
             <!-- End Tags -->
 
         </div>

@@ -11,7 +11,7 @@ when-to-start: wieczorem przed porannym wypiekiem
 
 -----
 
-Ulubiony wypiek mojej żony. Bułeczki sprawdzają się świetnie na lekkie słodkie śniadanie i pasują idealnie do kawy! Ostatnia faza ich wyrastania następuje w lodówce, co oznacza, że rano przekładamy je bezpośrednio z lodówki do piekarnika i po 10 minutach cynamonki są gotowe! Czasem przygotowuję do nich sos z mascarpone albo serka Philadelphia, wtedy smakują jak słodkości z Cinnabon. Najczęściej jednak jemy je same, wyjęte bezpośrednio z piekarnika, z filiżanką gorącego cappuccino.
+Ulubione bułeczki mojej żony. Sprawdzają się świetnie na lekkie słodkie śniadanie i pasują idealnie do kawy! Ostatnia faza ich wyrastania następuje w lodówce, co oznacza, że rano przekładamy je bezpośrednio z lodówki do piekarnika i po 10 minutach cynamonki są gotowe! Czasem przygotowuję do nich sos z mascarpone albo serka Philadelphia, wtedy smakują jak słodkości z Cinnabon. Najczęściej jednak jemy je same, wyjęte bezpośrednio z piekarnika, z filiżanką cipełego cappuccino.
 
 -----
 

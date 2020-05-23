@@ -13,7 +13,7 @@ when-to-start: rano poprzedniego dnia
 
 -----
 
-Melasa nadaje chlebowi niezwykły słodki posmak. Niektórzy go uwielbiają, niektórzy nie do końca. Ja zdecydowanie należę do tych pierwszych! W połączeniu ze smakiem słonecznika i zakwasu jest to jeden z moich ulubionych chlebów. Melasa może być dowolnego typu. Ja użyłem melasy z trzciny cukrowej, ale kiedyś używałem też melasy z buraków i z chleba świętojańskiego. Nie ma to większego znaczenia. Chleb wymaga rozpoczęcia przygotowania dzień wcześniej, ale sam proces jest bardzo prosty i nie zajmuje wiele czasu. Chleb zawsze wychodzi smaczny, więc nie ma obaw, że cokolwiek pójdzie niezgodnie z planem. Udanego wypieku!
+Melasa nadaje chlebowi niezwykły słodki posmak. Niektórzy go uwielbiają, inni nie do końca. Ja zdecydowanie należę do tych pierwszych! W połączeniu ze smakiem słonecznika i zakwasu jest to jeden z moich ulubionych chlebów. Można użyć dowolnego typu melasy. Ja użyłem melasy z trzciny cukrowej, ale kiedyś używałem też melasy z buraków i z chleba świętojańskiego. Nie ma to większego znaczenia. Chleb wymaga rozpoczęcia przygotowania dzień wcześniej, ale sam proces jest bardzo prosty i nie zajmuje wiele czasu. Chleb zawsze wychodzi smaczny, więc nie ma obaw, że cokolwiek pójdzie niezgodnie z planem. Udanego wypieku!
 
 -----
 

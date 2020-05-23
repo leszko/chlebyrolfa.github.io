@@ -13,7 +13,7 @@ when-to-start: wieczorem, dwa dni przed wypiekiem
 
 -----
 
-Niezwykle puszysty i bardzo oryginalny chleb. Użycie azjatyckiej techniki "tangzhong" sprawia, że chleb jest delikatny, lekki i sprężysty. Dodatkowo zielona herbata matcha nadaje mu nietypowy kolor. Dzieci go uwielbiają przez ciekawą strukturę i miękką skórkę. Nadaje się idealnie do wszelkich słodkich dodatków: konfitur, miodu i orzechowo-czekoladowych past. Piekę go bardzo często, bo jest to ciekawa odskocznia od chlebów, które zazwyczaj jada się w Polsce. Jego przygotowanie może wydawać się skomplikowane, ale w rzeczywistości jest proste i nie zabiera dużo czasu. Chleb zawsze wychodzi pyszny i nie wymaga wczesnego wstawania rankiem.
+Niezwykle puszysty i bardzo oryginalny chleb. Użycie azjatyckiej techniki "tangzhong" sprawia, że chleb jest delikatny, lekki i sprężysty. Dodatkowo zielona herbata matcha nadaje mu piękny, zielony kolor. Dzieci go uwielbiają przez ciekawą strukturę i miękką skórkę. Nadaje się idealnie do wszelkich słodkich dodatków: konfitur, miodu i orzechowo-czekoladowych past. Piekę go bardzo często, bo jest to ciekawa odmiana od chlebów, które zazwyczaj jada się w Polsce. Jego przygotowanie może wydawać się skomplikowane, ale w rzeczywistości jest proste i nie zabiera dużo czasu. Chleb zawsze wychodzi pyszny i nie wymaga wczesnego wstawania rankiem.
 
 -----
 

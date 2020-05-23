@@ -11,7 +11,7 @@ when-to-start: późnym popołudniem poprzedniego dnia
 
 -----
 
-Pierwszy chleb jaki upiekłem w życiu. Polecił mi go mój kolega, który też podzielił się ze mną zakwasem. Chleb jest przepyszny i bardzo tolerancyjny na wszystkie niedokładności i zmiany. Zawsze wychodzi świetny i nie wymaga wiele czasu na przygotowanie, dlatego polecam go szczególnie tym, którzy rozpoczynają swoją przygodę z wypiekaniem chleba. Można dowolnie mieszać mąki - mogą być razowe, mogą być z dodatkiem mąki orkiszowej albo gryczanej. Do tego polecam też dodać ziarna słonecznika lub pestki dyni.
+Pierwszy chleb, jaki upiekłem w życiu. Polecił mi go mój kolega, który podzielił się też ze mną zakwasem. Chleb jest przepyszny i bardzo tolerancyjny na wszystkie niedokładności i zmiany. Zawsze wychodzi świetny, a jego przygotowanie nie wymaga wiele czasu, dlatego polecam go szczególnie tym, którzy rozpoczynają swoją przygodę z wypiekaniem chleba. Można dowolnie mieszać mąki - mogą być razowe, mogą być z dodatkiem mąki orkiszowej albo gryczanej. Do tego polecam dodać też ziarna słonecznika lub pestki dyni.
 
 -----
 

@@ -13,7 +13,7 @@ when-to-start: rano poprzedniego dnia
 
 -----
 
-Mój ulubiony chleb. Klasyczny, pszenny, z dziurami i idealną skórką. Wygląda przepięknie, a smakuje jeszcze lepiej. Jest to zdecydowanie chleb, który piekę najczęściej! Wymaga trochę pracy, wprawy i wyczucia, żeby w odpowiednim momencie włożyć go do lodówki. Jeśli włożymy, kiedy masa jeszcze nie będzie "puszysta" to może niewystarczająco wyrosnąć. Jeśli włożymy za późno, to chleb wyrośnie nam za wcześnie i nie będzie już rósł w piekarniku, co z kolei sprawi, że upieczony będzie płaski. Na pewno trzeba go upiec kilka razy, zanim wyjdzie idealny. Ale zapewniam Was, na pewno warto, bo ten chleb to król wszystkich chlebów!
+Mój ulubiony chleb. Klasyczny, pszenny, z dziurami i idealną skórką. Wygląda przepięknie, a smakuje jeszcze lepiej. Jest to zdecydowanie chleb, który piekę najczęściej! Wymaga trochę pracy, wprawy i wyczucia, żeby w odpowiednim momencie włożyć go do lodówki. Jeśli włożymy, kiedy masa jeszcze nie będzie "puszysta" to może niewystarczająco wyrosnąć. Jeśli włożymy za późno, to chleb wyrośnie nam za wcześnie i nie będzie już rósł w piekarniku, co z kolei sprawi, że po upieczeniu będzie płaski. Na pewno trzeba go upiec kilka razy, zanim wyjdzie idealny. Ale zapewniam Was, że na pewno warto, bo ten chleb to król wszystkich chlebów!
 
 -----
 

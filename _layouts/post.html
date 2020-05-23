@@ -69,31 +69,31 @@ locale: pl_PL
                 <div class="container">
                     <div class="row">
                       <div class="col-md pt-1">
-                        {% if page.tags contains "bardzo-prosty-przepis" %}
+                        {% if page.tags contains "bardzo-prosty" %}
                             <span class="intro-icon"><img src="/assets/images/difficulty-1.png" alt="Bardzo prosty przepis"><i>Trudność: <u>bardzo prosty</u></i></span>
-                        {% elsif page.tags contains "prosty-przepis" %}
+                        {% elsif page.tags contains "prosty" %}
                             <span class="intro-icon"><img src="/assets/images/difficulty-2.png" alt="Prosty przepis"><i>Trudność: <u>prosty</u></i></span>
-                        {% elsif page.tags contains "sredniotrudny-przepis" %}
+                        {% elsif page.tags contains "sredniotrudny" %}
                             <span class="intro-icon"><img src="/assets/images/difficulty-3.png" alt="Średniotrudny przepis"><i>Trudność: <u>średni</u></i></span>
                         {% elsif page.tags contains "trudny-przepis" %}
                             <span class="intro-icon"><img src="/assets/images/difficulty-4.png" alt="Trudny przepis"><i>Trudność: <u>trudny</u></i></span>
                         {% endif %}
                       </div>
                       <div class="col-md pt-1">
-                        {% if page.tags contains "wypiek-na-zakwasie" %}
+                        {% if page.tags contains "zakwas" %}
                             <span class="intro-icon"><img src="/assets/images/sourdough.png" alt="Wypiek na zakwasie"><i>Wypiek na <u>zakwasie</u></i></span>
-                        {% elsif page.tags contains "wypiek-na-drozdzach" %}
+                        {% elsif page.tags contains "drozdze" %}
                             <span class="intro-icon"><img src="/assets/images/yeast.png" alt="Wypiek na drożdżach"><i>Wypiek na <u>drożdżach</u></i></span>
                         {% endif %}
                       </div>
                       <div class="col-md pt-1">
                         {% if page.baking-pan %}
                             <span class="intro-icon"><img src="/assets/images/baking-pan.png" alt="Uzyj formy"><i>Forma <u>{{page.baking-pan}}</u></i></span>
-                        {% elsif page.tags contains "uzyj-kamienia" and page.tags contains "uzyj-blachy" %}
+                        {% elsif page.tags contains "kamien" and page.tags contains "blacha" %}
                             <span class="intro-icon"><img src="/assets/images/baking-tray.png" alt="Użyj kamienia lub blachy"><i>Użyj <u>kamienia lub blachy</u></i></span>
-                        {% elsif page.tags contains "uzyj-kamienia" %}
+                        {% elsif page.tags contains "kamien" %}
                             <span class="intro-icon"><img src="/assets/images/baking-tray.png" alt="Użyj kamienia"><i>Użyj <u>kamienia</u></i></span>
-                        {% elsif page.tags contains "uzyj-blachy" %}
+                        {% elsif page.tags contains "blacha" %}
                             <span class="intro-icon"><img src="/assets/images/baking-tray.png" alt="Użyj blachy"><i>Użyj <u>blachy</u></i></span>
                         {% elsif page.dutch-oven %}
                             <span class="intro-icon"><img src="/assets/images/dutch-oven.png" alt="Użyj blachy"><i>Garnek żeliwny <u>{{ page.dutch-oven }}</u></i></span>

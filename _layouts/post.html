@@ -158,6 +158,7 @@ locale: pl_PL
             {% endif %}
 
             <!-- Post Categories -->
+            {% if page.categories %}
             <div class="after-post-cats">
                 <ul class="tags mb-4">
                     {% assign sortedCategories = page.categories | sort %}
@@ -168,9 +169,11 @@ locale: pl_PL
                     {% endfor %}
                 </ul>
             </div>
+            {% endif %}
             <!-- End Categories -->
 
             <!-- Post Tags -->
+            {% if page.tags %}
             <div class="after-post-tags">
                 <ul class="tags">
                     {% assign sortedTags = page.tags | sort %}
@@ -181,6 +184,7 @@ locale: pl_PL
                     {% endfor %}
                 </ul>
             </div>
+            {% endif %}
             <!-- End Tags -->
 
         </div>

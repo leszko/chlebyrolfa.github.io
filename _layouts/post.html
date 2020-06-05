@@ -97,6 +97,8 @@ locale: pl_PL
                             <span class="intro-icon"><img src="/assets/images/baking-tray.png" alt="Użyj blachy"><i>Użyj <u>blachy</u></i></span>
                         {% elsif page.dutch-oven %}
                             <span class="intro-icon"><img src="/assets/images/dutch-oven.png" alt="Użyj blachy"><i>Garnek żeliwny <u>{{ page.dutch-oven }}</u></i></span>
+                        {% elsif page.tags contains "patelnia" %}
+                            <span class="intro-icon"><img src="/assets/images/frying-pan.png" alt="Użyj patelni"><i>Użyj <u>patelni</u></i></span>
                         {% endif %}
                       </div>
                     </div>

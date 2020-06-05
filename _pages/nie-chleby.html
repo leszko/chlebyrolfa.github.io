@@ -1,26 +1,17 @@
 ---
 layout: default
+title: Nie-chleby
+permalink: /nie-chleby
 ---
-
-<!-- Posts Index
-================================================== -->
-<!-- <section class="featured-posts">
-    <div class="section-title">
-        <h2><span>Chleby na początek</span></h2>
-    </div>
-    <div class="row listrecent"> 
-    
-    </div>
-</section> -->
 
 <section class="recent-posts">
     <div class="section-title">
-        <h2><span>Chleby</span></h2>
+        <h2><span>Nie-chleby</span></h2>
     </div>
     <div class="row listrecent"> 
 
-    {% for post in paginator.posts %}
-        {% if post.categories contains "chleby" %}
+    {% for post in site.posts %}
+        {% if post.categories contains "nie-chleby" %}
             {% include postbox.html %}
         {% endif %}
     {% endfor %}

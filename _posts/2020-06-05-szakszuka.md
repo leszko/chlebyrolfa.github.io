@@ -1,6 +1,6 @@
 ---
 layout: post
-image:  assets/images/blog/2020-06-11-szakszuka/szakszuka.jpg
+image:  assets/images/blog/2020-06-05-szakszuka/szakszuka.jpg
 title: Szakszuka
 description: Przepis na szakszukę. Są dwa sekrety idealnej szakszuki. Po pierwsze, długie duszenie warzyw. Po drugie, przyprawy! Zobacz, jak przygotować sprawdzony przepis na szakszuka. Najlepszy i najbardziej aromatyczny przepis na szakszukę. Jajka w sosie pomidorowym ze świeżych pomidorów. Pomysł na śniadanie.
 categories: nie-chleby
@@ -44,13 +44,13 @@ Szakszuka (*Shakshouka*) to danie składające się z jajek sadzonych w sosie na
 
 1\. Przygotuj wszystkie składniki. Zacznij od pokrojenia cebuli w drobną kostkę. Na patelni **rozgrzej oliwę i podsmaż cebulę**.
 
-![Szakszuka](/assets/images/blog/2020-06-11-szakszuka/szakszuka-skladniki.jpg)
+![Szakszuka](/assets/images/blog/2020-06-05-szakszuka/szakszuka-skladniki.jpg)
 
 2\. Dodaj **wyciśnięty czosnek** i pokrojoną w kostkę **paprykę**. Podsmaż chwilę wszystko razem.\\
 3\. Dodaj **pomidory w puszce**. Następnie, dodaj **ocet balsamiczny, cukier, kumin, przyprawę "Etiopskie Berbere", pieprz i sól**. Wszystko dobrze wymieszaj.\\
 4\. Przykryj patelnię i **duś na średnim gazie**, potrawa powinna cały czas się gotować. Po około **1 godzinie** wszystkie warzywa powinny być już zupełnie miękkie.\\
 5\. Zrób 4 wgłębienia w sosie i **wbij do nich 4 jajka**. Przykryj patelnię i smaż, aż **białko jajek będzie ścięte z wierzchu**. Żółtka powinny być nadal płynne w środku.
 
-![Szakszuka jajka](/assets/images/blog/2020-06-11-szakszuka/szakszuka-jajka.jpg)
+![Szakszuka jajka](/assets/images/blog/2020-06-05-szakszuka/szakszuka-jajka.jpg)
 
-![Szakszuka](/assets/images/blog/2020-06-11-szakszuka/szakszuka-gotowy.jpg)
+![Szakszuka](/assets/images/blog/2020-06-05-szakszuka/szakszuka-gotowy.jpg)

@@ -68,7 +68,7 @@ locale: pl_PL
             <div class="article-post">
                 <div class="container-fluid">
                     <div class="row">
-                      <div class="col pt-1">
+                      <div class="col-lg pt-1">
                         {% if page.tags contains "bardzo-prosty" %}
                             <span class="intro-icon"><img src="/assets/images/difficulty-1.png" alt="Bardzo prosty przepis"><i>Trudność: <u>bardzo prosty</u></i></span>
                         {% elsif page.tags contains "prosty" %}
@@ -79,14 +79,14 @@ locale: pl_PL
                             <span class="intro-icon"><img src="/assets/images/difficulty-4.png" alt="Trudny przepis"><i>Trudność: <u>trudny</u></i></span>
                         {% endif %}
                       </div>
-                      <div class="col pt-1">
+                      <div class="col-lg pt-1">
                         {% if page.tags contains "zakwas" %}
                             <span class="intro-icon"><img src="/assets/images/sourdough.png" alt="Wypiek na zakwasie"><i>Wypiek na <u>zakwasie</u></i></span>
                         {% elsif page.tags contains "drozdze" %}
                             <span class="intro-icon"><img src="/assets/images/yeast.png" alt="Wypiek na drożdżach"><i>Wypiek na <u>drożdżach</u></i></span>
                         {% endif %}
                       </div>
-                      <div class="col pt-1">
+                      <div class="col-lg pt-1">
                         {% if page.baking-pan %}
                             <span class="intro-icon"><img src="/assets/images/baking-pan.png" alt="Uzyj formy"><i>Forma <u>{{page.baking-pan}}</u></i></span>
                         {% elsif page.tags contains "kamien" and page.tags contains "blacha" %}
@@ -104,7 +104,7 @@ locale: pl_PL
                     </div>
                     {% if page.when-to-start %}
                     <div class="row">
-                        <div class="col pt-3">
+                        <div class="col-lg pt-3">
                             <span class="when-to-start"><img src="/assets/images/clock.png" alt="Zacznij {{page.when-to-start}}"> <i>Zacznij <u>{{ page.when-to-start }}</u></i></span>
                         </div>
                     </div>

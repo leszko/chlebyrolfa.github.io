@@ -7,6 +7,7 @@ tags: drozdze prosty blacha
 categories: chleby
 source-title: 'książki "O Chlebie" Elizy Mórawskiej (Bułeczki z kardamonem i cynamonem)'
 when-to-start: wieczorem przed porannym wypiekiem
+amount: 8-12 bułeczek
 ---
 
 -----

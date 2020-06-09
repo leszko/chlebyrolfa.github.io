@@ -61,7 +61,12 @@
                             <span class="post-icon"><img src="/assets/images/frying-pan.png" title="Użyj patelni"></span>
                         {% endif %}
                         </div>
-                         <div class="col-6 pr-0">
+                        <div class="col-2 pl-0">
+                        {% if post.tags contains "wege" %}
+                        <span class="post-icon"><img src="/assets/images/vegan.png" title="Przepis wegański"></span>
+                        {% endif %}
+                        </div>
+                         <div class="col-4 pr-0">
                             <span class="post-date postbox-date">{{ post.date | date: "%d.%m.%Y" }}</span>
                         </div>
                     </div>

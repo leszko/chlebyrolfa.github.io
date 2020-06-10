@@ -3,7 +3,7 @@ layout: post
 image:  assets/images/blog/2020-05-24-portugalski-chleb-kukurydziany/portugalski-chleb-kukurydziany.jpg
 title: Portugalski chleb kukurydziany (Broa de Milho)
 description: Broa de Milho. Chleb kukurydziany z Portugalii. O zwartym miąższu, pięknym żółtym kolorze i popękanej chrupiącej skórce. Formowany w płaskie okrągłe bochenki podsypane mąką. Wykonany z mieszanki mąki kukurydzianej i pszennej. Dzisiaj mam dla Was przepis na jeden z najlepszych chlebków jakie piekę!
-tags: chleby-swiata zakwas prosty kamien blacha
+tags: chleby-swiata zakwas prosty kamien blacha wege
 categories: chleby
 source-title: Foodgeek (Broa de Milho, Portuguese corn bread)
 source-link: https://foodgeek.dk/en/broa-de-milho-portuguese-corn-bread/

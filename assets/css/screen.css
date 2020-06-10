@@ -80,7 +80,7 @@ section.recent-posts {
 
 .article-post ol,
 .article-post ul {
-    margin-bottom: 1.5rem;
+    margin-bottom: 0rem;
 }
 
 .article-post ol ol,

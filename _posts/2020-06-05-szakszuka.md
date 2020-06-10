@@ -6,7 +6,8 @@ description: Przepis na szakszukę. Są dwa sekrety idealnej szakszuki. Po pierw
 categories: nie-chleby
 source-title: Poezja Smaku (Shakshouka – jajka w pomidorach)
 source-link: https://www.poezja-smaku.pl/shakshouka-szakszuka-jajka-w-pomidorach/
-when-to-start: 1.5 godziny przed podaniem
+when-to-start: 1.5 godziny przed 
+amount: 2 porcje
 ---
 
 -----

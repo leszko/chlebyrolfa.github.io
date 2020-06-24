@@ -12,7 +12,7 @@ permalink: /:title/
 future: true
 lang: pl_PL
 locale: pl_PL
-excerpt_separator: LF
+excerpt_separator: "## Składniki"
 
 # Plugins
 plugins:

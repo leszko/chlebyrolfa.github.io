@@ -17,7 +17,11 @@ layout: null
         {% else %}
           <description>{{ post.content | strip_html | xml_escape | truncatewords:50 }}</description>
         {% endif %}
-        <media:content url="{{ site.url }}/{{ post.image }}" medium="image"/>
+        {% if post.image-small}
+          <media:content url="{{ site.url }}/{{ post.image-small }}" medium="image"/>
+        {% else %}
+           <media:content url="{{ site.url }}/{{ post.image }}" medium="image"/>
+        {% endif %}
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>

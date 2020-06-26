@@ -23,7 +23,7 @@ plugins:
   - jekyll-archives
     
 # Pagination 
-paginate: 12
+paginate: 15
 paginate_path: /page/:num/
     
 # Other

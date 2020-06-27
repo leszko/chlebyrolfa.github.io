@@ -1,6 +1,7 @@
 ---
 layout: post
-image:  assets/images/blog/2020-04-20-chleb-z-melasa/chleb-z-melasa.jpg
+image: assets/images/blog/2020-04-20-chleb-z-melasa/chleb-z-melasa.jpg
+image-small: assets/images/blog/2020-04-20-chleb-z-melasa/chleb-z-melasa-small.jpg
 title: Chleb z melasą
 description: Przepis na domowy chleb z melasą na zakwasie żytnim. Jeden z najlepszych chlebów domowych. Bardzo łatwy do przygotowania.
 tags: zakwas prosty forma wege

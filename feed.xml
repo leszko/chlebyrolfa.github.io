@@ -17,8 +17,8 @@ layout: null
         {% else %}
           <description>{{ post.content | strip_html | xml_escape | truncatewords:50 }}</description>
         {% endif %}
-        {% if post.image-small %}
-          <media:content url="{{ site.url }}/{{ post.image-small }}" medium="image" width="500"/>
+        {% if post.image-smaller %}
+          <media:content url="{{ site.url }}/{{ post.image-smaller }}" medium="image" width="500"/>
         {% else %}
            <media:content url="{{ site.url }}/{{ post.image }}" medium="image" width="500"/>
         {% endif %}

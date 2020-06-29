@@ -1,7 +1,7 @@
 ---
 layout: post
 image:  assets/images/blog/2020-06-26-mleczny-chleb/mleczny-chleb.jpg
-image-small: assets/images/blog/2020-06-26-mleczny-chleb/mleczny-chleb-small.jpg
+image-smaller: assets/images/blog/2020-06-26-mleczny-chleb/mleczny-chleb-smaller.jpg
 title: Mleczny chleb z Hong Kongu
 description: Słodki mleczny chleb z Hong Kongu, idealny dla dzieci. Niesłychanie smaczny! Przepis na bardzo pulchny, prawie lekki jak piórko mleczny chleb!
 tags: chleby-swiata drozdze prosty forma

@@ -18,9 +18,9 @@ layout: null
           <description>{{ post.content | strip_html | xml_escape | truncatewords:50 }}</description>
         {% endif %}
         {% if post.image-small %}
-          <media:content url="{{ site.url }}/{{ post.image-small }}" medium="image" width="500"/>
+          <media:content url="{{ site.url }}/{{ post.image-small }}" medium="image" width="600"/>
         {% else %}
-           <media:content url="{{ site.url }}/{{ post.image }}" medium="image" width="500"/>
+           <media:content url="{{ site.url }}/{{ post.image }}" medium="image" width="600"/>
         {% endif %}
         <!-- pubDate is the end of the day -->
         <pubDate>{{ post.date | date:'%s' | plus:86399 |  date_to_rfc822 }}</pubDate>

@@ -7,6 +7,7 @@ favicon: 'assets/images/icons/logo.png'
 baseurl:
 google_analytics: 'UA-164126054-1'
 disqus: 'chlebyrolfa'
+mailchimp-list: 'https://chlebyrolfa.us10.list-manage.com/subscribe/post?u=8ed4c03298a0bf66a9f4206f6&amp;id=a250c2380c'
 include: ["_pages"]
 permalink: /:title/
 future: true

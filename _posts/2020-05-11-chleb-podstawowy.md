@@ -3,7 +3,7 @@ layout: post
 image:  assets/images/blog/2020-05-11-chleb-podstawowy/chleb-podstawowy.jpg
 image-small:  assets/images/blog/2020-05-11-chleb-podstawowy/chleb-podstawowy-small.jpg
 title: Chleb podstawowy
-description: "Przepis na prosty chleb na zakwasie. Miąższ idealny, pachnący, skórka wypieczona i chrupiąca. Polecam wszystkim, którzy zaczynają swoją przygodę z wypiekaniem chleba. Najlepszy z najlepszych składników: mąka żytnia, woda, sól i wyhodowany samodzielnie zakwas"
+description: Przepis na prosty chleb na zakwasie. Miąższ idealny, pachnący, skórka wypieczona i chrupiąca. Polecam wszystkim, którzy zaczynają przygodę z wypiekaniem chleba.
 tags: na-poczatek zakwas bardzo-prosty forma wege
 categories: chleby
 baking-pan: "22-24 cm"

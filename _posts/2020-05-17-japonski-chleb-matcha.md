@@ -3,7 +3,7 @@ layout: post
 image:  assets/images/blog/2020-05-17-japonski-chleb-matcha/japonski-chleb-matcha.jpg
 image-small:  assets/images/blog/2020-05-17-japonski-chleb-matcha/japonski-chleb-matcha-small.jpg
 title: Japoński chleb matcha
-description: Pszenny chleb z matcha. Jest zdrowy, puszysty i zielony. Prosty i pyszny dwukolorowy chleb pszenny ze świderkiem z matcha. Piękny i orginalny chleb z dodatkiem sproszkowanej zielonej herbaty. Pomysł na zdrowe i energetyczne śniadanie.
+description: Przepis na pszenny chleb z matcha na bazie tangzhong. Jest zdrowy, puszysty i zielony. Orginalny chleb z dodatkiem sproszkowanej zielonej herbaty.
 tags: chleby-swiata drozdze prosty forma
 categories: chleby
 baking-pan: "25-27 cm"

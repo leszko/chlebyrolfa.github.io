@@ -2,7 +2,7 @@
 layout: post
 image:  assets/images/pages/zakwas.jpg
 title: Zakwas
-description: Zakwas powstaje z połączenia mąki i wody. Najczęstsze pytania i odpowiedzi oraz sprawdzony sposób jak wyhodować zakwas żytni do pieczenia chleba. Chleby na zakwasie piekę już od kilku dobrych lat, co najmniej dwa razy w tygodniu.
+description: Zakwas powstaje z połączenia mąki i wody. Najczęstsze pytania i odpowiedzi oraz sprawdzony sposób jak wyhodować zakwas żytni do pieczenia chleba.
 permalink: /zakwas
 comments: true
 ---

@@ -3,7 +3,7 @@ layout: post
 image:  assets/images/blog/2020-06-05-szakszuka/szakszuka.jpg
 image-small:  assets/images/blog/2020-06-05-szakszuka/szakszuka-small.jpg
 title: Szakszuka
-description: Przepis na szakszukę. Są dwa sekrety idealnej szakszuki. Po pierwsze, długie duszenie warzyw. Po drugie, przyprawy! Zobacz, jak przygotować sprawdzony przepis na szakszuka. Najlepszy i najbardziej aromatyczny przepis na szakszukę. Jajka w sosie pomidorowym ze świeżych pomidorów. Pomysł na śniadanie.
+description: Przepis na szakszukę. Są dwa sekrety idealnej szakszuki. Po pierwsze, długie duszenie warzyw. Po drugie, przyprawy! Pomysł na śniadanie.
 categories: nie-chleby
 tags: prosty patelnia
 source-title: Poezja Smaku (Shakshouka – jajka w pomidorach)

@@ -3,7 +3,7 @@ layout: post
 image:  assets/images/blog/2020-04-26-cynamonki/cynamonki-buleczki-cynamonowe.jpg
 image-small:  assets/images/blog/2020-04-26-cynamonki/cynamonki-buleczki-cynamonowe-small.jpg
 title: Cynamonki (bułeczki cynamonowe)
-description: Bułeczki cynamonowe. Domowa wersja słynnych amerykańskich drożdżowych ślimaczków Cinnamon rolls. Obok nich nie można przejść obojętnie, słodkie i mięsiste zwijane bułeczki z dużą ilością cynamonu. Super pyszne i wbrew pozorom bardzo proste do upieczenia.
+description: Przepis na cynamonki. Domowa wersja słynnych amerykańskich Cinnamon rolls. Obok nich nie można przejść obojętnie, słodkie i mięsiste, z dużą ilością cynamonu.
 tags: drozdze prosty blacha
 categories: chleby
 source-title: 'książki "O Chlebie" Elizy Mórawskiej (Bułeczki z kardamonem i cynamonem)'

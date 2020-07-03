@@ -1,0 +1,5 @@
+{% if page.title %}
+{% else %}
+  <meta content="website" property="og:type">
+  <meta content="{{ site.url }}/{{ site.logo }}" property="og:image">
+{% endif %}

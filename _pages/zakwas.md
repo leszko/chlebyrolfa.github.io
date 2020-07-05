@@ -80,7 +80,7 @@ Spróbuj dokarmić zakwas jeszcze raz. Jeśli przez **16 godzin dalej nie bąbel
 
 #### Co mogę zrobić z zakwasem jak nie piekę chleba?
 
-Jeśli dokarmiasz zakwas i nie pieczesz chleba (albo po prostu zostały Ci resztki zakwasu) to możesz wymieszać je z **1 jajkiem i podmażyć na patelni**. Powstanie bardzo smaczna potrawa w smaku przypominająca pierogi leniwe. Polecam z masłem i cukrem!
+Jeśli dokarmiasz zakwas i nie pieczesz chleba (albo po prostu zostały Ci resztki zakwasu) to możesz wymieszać je z **1 jajkiem i podmażyć na patelni**. Powstanie bardzo smaczna potrawa w smaku przypominająca pierogi leniwe. Polecam z masłem i cukrem! Innym bardzo dobrym sposobem wykorzystania nadmiaru zakwasu są [pankejki na zakwasie]({% post_url 2020-07-05-pankejki-na-zakwasie %}).
 
 -----
 

@@ -1,0 +1,28 @@
+{% assign count = 0 %}
+
+{% for post in site.posts %}
+
+    {% if page.categories == post.categories and page.title != post.title %}
+        {% assign count = count | plus:1 %}
+
+        {% if count == 1 %}
+            <hr>
+            <div class="article-post">
+            <h2>Zobacz także</h2>
+            <ul>
+        {% endif %}
+            
+            <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+
+        {% if count == 3 %}
+            {% break %}
+        {% endif %}
+    {% endif %}
+
+{% endfor %}
+
+{% if count > 0 %}
+    </ul>
+    </div>
+    <hr>
+{% endif %}

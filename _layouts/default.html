@@ -14,18 +14,6 @@
 
 {% include og.html %}
 
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    
-{% if site.minified_css %}
-<link href="{{ site.baseurl }}/assets/css/minified_screen.css" rel="stylesheet">
-{% else %}
-<link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
-{% endif %}
-
-<link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
-
-<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-
 </head>
 
 {% if jekyll.environment == 'production' %}
@@ -165,6 +153,18 @@ ga('send', 'pageview');
 ================================================== -->
 
 </div> <!-- /.site-content -->
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    
+{% if site.minified_css %}
+<link href="{{ site.baseurl }}/assets/css/minified_screen.css" rel="stylesheet">
+{% else %}
+<link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
+{% endif %}
+
+<link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
+
+<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
 <!-- Non-critical links -->
 <link rel="apple-touch-icon" sizes="57x57" href="{{ site.baseurl }}/assets/images/icons/apple-icon-57x57.png">
